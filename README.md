@@ -1,11 +1,17 @@
-. You Teach It 📚
-You simply drag and drop your company manuals, FAQs, or help guides into a Google Drive folder. The AI automatically reads and "memorizes" everything in them instantly.
+🤖 Meet Your New AI Support Agent
 
-2. It Watches Your Email 👀
-The assistant constantly detects new emails in your inbox. It is smart enough to ignore spam or newsletters and focus only on customer questions.
+1. You Teach It 📚🧠 Simply drag & drop your company manuals, FAQs, or help guides into a Google Drive folder.
 
-3. It Answers for You 💬
-When a customer asks a question:
+The AI automatically reads and memorizes every detail instantly. ⚡️
 
-If the answer is in your files: The AI writes a polite, professional reply with the exact answer and sends it immediately.
-If it doesn't know: It won't guess. It simply tells the customer, "I couldn't find that info, let me connect you with a human expert."
+2. It Watches Your Inbox 24/7 👀📩 Your assistant never sleeps! It constantly monitors your inbox for new messages.
+
+Filters out noise: Ignores spam & newsletters 🚫
+
+Focuses on what matters: Identifies customer questions instantly 🎯
+
+3. It Answers for You 💬✅ When a customer asks a question, the magic happens:
+
+✨ Found the answer? It writes a polite, professional reply with the exact info and sends it immediately. 🚀
+
+🤔 Don't know? It won't guess! It honestly says: "I couldn't find that info, let me connect you with a human expert." 🤝
